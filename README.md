@@ -1,16 +1,16 @@
-# Express Livereload Bootstrap
+Express Livereload Bootstrap
+============================
+express with livereload bootstrap
 
-express bootstrap with livereload
-
-# Install
-
+Install
+-------
 ```
 npm install
 bower install
 ```
 
-# Start
-
+Start
+-----
 ```
 node app.js
 ```
