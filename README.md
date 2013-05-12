@@ -8,3 +8,9 @@ express bootstrap with livereload
 npm install
 bower install
 ```
+
+# start
+
+```
+node app.js
+```
