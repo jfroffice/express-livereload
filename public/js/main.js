@@ -1,3 +1,3 @@
 $(function() {
-	console.log('DOM is ready !');
+	console.log('DOM is ready 3!');
 });
